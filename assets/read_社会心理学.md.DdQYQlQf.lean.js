@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as r,af as t}from"./chunks/framework.NLvgQAyp.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"read/社会心理学.md","filePath":"read/社会心理学.md"}'),n={name:"read/社会心理学.md"};function o(s,p,m,i,l,h){return r(),a("div",null,[...p[0]||(p[0]=[t("",373)])])}const _=e(n,[["render",o]]);export{d as __pageData,_ as default};
