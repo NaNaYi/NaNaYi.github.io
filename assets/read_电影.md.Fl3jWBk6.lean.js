@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as a,af as i}from"./chunks/framework.NLvgQAyp.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"read/电影.md","filePath":"read/电影.md"}'),s={name:"read/电影.md"};function n(l,e,r,u,h,d){return a(),o("div",null,[...e[0]||(e[0]=[i("",12)])])}const c=t(s,[["render",n]]);export{y as __pageData,c as default};

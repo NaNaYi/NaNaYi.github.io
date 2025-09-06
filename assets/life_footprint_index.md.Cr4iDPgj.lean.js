@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.NLvgQAyp.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"life/footprint/index.md","filePath":"life/footprint/index.md"}'),n={name:"life/footprint/index.md"};function r(a,i,s,c,d,f){return o(),t("div")}const l=e(n,[["render",r]]);export{_ as __pageData,l as default};
