@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as e,af as r}from"./chunks/framework.NLvgQAyp.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"life/日记.md","filePath":"life/日记.md"}'),t={name:"life/日记.md"};function h(s,l,o,n,_,c){return e(),i("div",null,[...l[0]||(l[0]=[r("",11)])])}const u=a(t,[["render",h]]);export{m as __pageData,u as default};
