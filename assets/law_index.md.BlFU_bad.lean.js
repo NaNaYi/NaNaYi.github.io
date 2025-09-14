@@ -1,1 +1,0 @@
-import{_ as a,c as t,o as p,af as r}from"./chunks/framework.NLvgQAyp.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"law/index.md","filePath":"law/index.md"}'),n={name:"law/index.md"};function _(o,e,i,s,d,l){return p(),t("div",null,[...e[0]||(e[0]=[r("",10)])])}const m=a(n,[["render",_]]);export{f as __pageData,m as default};

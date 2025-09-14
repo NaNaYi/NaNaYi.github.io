@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,af as _}from"./chunks/framework.NLvgQAyp.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"read/张居正.md","filePath":"read/张居正.md"}'),r={name:"read/张居正.md"};function o(s,p,n,d,c,i){return a(),t("div",null,[...p[0]||(p[0]=[_("",29)])])}const m=e(r,[["render",o]]);export{l as __pageData,m as default};

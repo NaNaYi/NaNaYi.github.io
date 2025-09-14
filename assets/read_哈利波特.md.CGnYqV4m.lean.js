@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,af as _}from"./chunks/framework.NLvgQAyp.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"read/哈利波特.md","filePath":"read/哈利波特.md"}'),r={name:"read/哈利波特.md"};function o(s,p,n,d,c,i){return a(),t("div",null,[...p[0]||(p[0]=[_("",10)])])}const m=e(r,[["render",o]]);export{l as __pageData,m as default};

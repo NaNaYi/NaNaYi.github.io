@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as e,ah as r}from"./chunks/framework.Crdh1p6x.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"life/日记.md","filePath":"life/日记.md"}'),t={name:"life/日记.md"};function h(s,l,o,n,_,d){return e(),i("div",null,[...l[0]||(l[0]=[r("",13)])])}const u=a(t,[["render",h]]);export{m as __pageData,u as default};

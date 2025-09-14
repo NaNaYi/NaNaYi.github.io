@@ -1,0 +1,1 @@
+import{_ as i,c as p,o as a,ah as e}from"./chunks/framework.Crdh1p6x.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"read/摘抄.md","filePath":"read/摘抄.md"}'),t={name:"read/摘抄.md"};function o(r,l,n,s,_,d){return a(),p("div",null,[...l[0]||(l[0]=[e("",15)])])}const c=i(t,[["render",o]]);export{u as __pageData,c as default};
