@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.Crdh1p6x.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"read/送你一颗子弹.md","filePath":"read/送你一颗子弹.md"}'),r={name:"read/送你一颗子弹.md"};function o(_,s,c,n,d,p){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
