@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as r,ah as t}from"./chunks/framework.Crdh1p6x.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"read/社会心理学.md","filePath":"read/社会心理学.md"}'),n={name:"read/社会心理学.md"};function o(s,p,m,i,h,l){return r(),a("div",null,[...p[0]||(p[0]=[t("",380)])])}const _=e(n,[["render",o]]);export{d as __pageData,_ as default};

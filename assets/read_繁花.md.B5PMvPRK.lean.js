@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,ah as _}from"./chunks/framework.Crdh1p6x.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"read/繁花.md","filePath":"read/繁花.md"}'),r={name:"read/繁花.md"};function o(s,p,n,d,c,i){return a(),t("div",null,[...p[0]||(p[0]=[_("",30)])])}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
