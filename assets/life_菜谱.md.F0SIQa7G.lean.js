@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.B7uuEfom.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"life/菜谱.md","filePath":"life/菜谱.md"}'),r={name:"life/菜谱.md"};function o(s,c,n,i,_,f){return a(),t("div")}const l=e(r,[["render",o]]);export{d as __pageData,l as default};

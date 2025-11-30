@@ -1,1 +1,0 @@
-import{_ as a,c as t,o as p,ah as r}from"./chunks/framework.B7uuEfom.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"law/index.md","filePath":"law/index.md"}'),n={name:"law/index.md"};function _(o,e,i,s,d,l){return p(),t("div",null,[...e[0]||(e[0]=[r("",10)])])}const f=a(n,[["render",_]]);export{m as __pageData,f as default};
